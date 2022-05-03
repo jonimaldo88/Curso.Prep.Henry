@@ -1,0 +1,15 @@
+
+Definicion de Conceptos
+
+    * Variables: Las variables almacenan un valor determinado en la memoria, de algo que luego sera llamado en el codigo. 
+
+	* Strings: Los Strings son cadenas de caracteres que forman palabras o no, siempre se escriben entre comillas simples o dobles.
+
+	* Funciones (argumentos, `return`) : Las funciones nos permiten agrupar y determianr distintos tipos de acciones en el codigo, mediante argumentos que tienen un valor 
+	para ser ejecutado. en algunos casos nos sirve para determinar si sucede algo o no sucede algo al cumplirse determinada condicion que es otorgada por los argumentos , en este caso el 
+	metodo de devolucion se llama return, basicamente nos devuelve algo al citarlo.
+
+	* Declaraciones `if` : sirve para que nuestra funcion verifique si sucede o no tal cosa dependiendo la condicion si se cumple o si no se cumple suceda otra cosa a travez de else.
+
+	* Valores booleanos (`true`, `false`): los valores booleanos solo tiene dos condiciones , true o false. y pueden obtener el valor mediante alguna ecuacion sobre otra variable.
+	
